@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Creating Bitbucket Pipelines
+=======
+#Creating Bitbucket PIPEPLINES
+>>>>>>> b7b7465fc6dc56717982c46c70d6c89098a3f22a
 1. go to bitbucket and create repository
 2. go to sourcetree and clone that repository
 3. go to amazon and create an s3 bucket
