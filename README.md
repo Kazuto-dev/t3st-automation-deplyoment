@@ -1,3 +1,4 @@
+#Creating Bitbucket PIPEPLINES
 1. go to bitbucket and create repository
 2. go to sourcetree and clone that repository
 3. go to amazon and create an s3 bucket
