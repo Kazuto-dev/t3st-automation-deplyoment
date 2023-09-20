@@ -1,0 +1,8 @@
+image: amazon/aws-cli:latest
+
+pipelines:
+  default:
+    - step:
+        name: Deploy to S3
+        script:
+          - aws s3 cp test.html s3://t3st-automation-1/
